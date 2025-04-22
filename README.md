@@ -10,6 +10,10 @@
 
 **MENTOR NAME**: NEELA SANTHOSH
 
+# OUTPUT OF THE TASK
+
+![Image](https://github.com/user-attachments/assets/7ee1a130-5a7a-4ae0-b60f-f5e6626236bf)
+
 # This application is a full-stack chat platform composed of a backend server and a frontend client, built with modern web technologies. The structure reflects a clean separation between the server-side and client-side logic, promoting scalability, maintainability, and performance.
 
 **Backend (Node.js, Express, MongoDB)
